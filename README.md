@@ -4,7 +4,7 @@
 
 使用 MVVM 架构+LitePal。
 
-![截图](.\img\01.jpg)
+![截图](\img\01.jpg)
 
 ## 有什么功能
 
