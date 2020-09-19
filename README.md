@@ -4,7 +4,7 @@
 
 使用 MVVM 架构+LitePal。
 
-![截图]https://github.com/Ayagikei/RedeemCodeManager/blob/master/img/01.jpg?raw=true)
+![截图](https://github.com/Ayagikei/RedeemCodeManager/blob/master/img/01.jpg?raw=true)
 
 ## 有什么功能
 
